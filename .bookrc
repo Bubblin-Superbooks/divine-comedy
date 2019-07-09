@@ -9,7 +9,7 @@
     "HEAD": "html"
   },
   "cover": {
-    "punchline": "",
+    "punchline": "A journey through the realm of afterlife: inferno.",
     "toc": "",
     "author_detail": "",
     "colophon": "",
@@ -18,5 +18,5 @@
   "status": "published",
   "asset_url": "https://raw.githubusercontent.com/marvindanig/divine-comedy/master/assets",
   "book_id": 836,
-  "book_url": "http://bubblin.io/book/divine-comedy-by-dante-alighieri"
+  "book_url": "https://bubblin.io/book/divine-comedy-by-dante-alighieri"
 }
